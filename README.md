@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi 👋 I'm Abhineet Kaur
 
-<!--
-**abhineetkaurrr/abhineetkaurrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student with a strong interest in **Machine Learning, NLP, and System Design**.  
+I enjoy building **end-to-end projects** — from model training to deployment — and exploring modern architectures like decentralized systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- **Languages:** Python, Java
+- **ML / AI:** Machine Learning, NLP, TF-IDF, Naive Bayes  
+- **Frameworks:** Streamlit, Pandas, Matplotlib, Scikit-Learn, Numoy
+- **Tools:** Git, GitHub, AWS, Power BI, MySql
+
+---
+
+### 🚀 Featured Projects
+- 📧 **Spam Mail Detection**  
+  ML-based spam classifier using Naive Bayes & TF-IDF  
+  🔗 Live Demo: https://spam-mail-detection-abhineet.streamlit.app/
+
+- 🌐 **Decentralized Content Delivery Network**  
+  dCDN architecture with TypeScript frontend & Rust backend  
+  🔗 Repo: https://github.com/abhineetkaurrr/Decentralized-Content-Delivery-Network
+
+---
+
+### 📫 Connect with me
+- GitHub: https://github.com/abhineetkaurrr
+- LinkedIn: https://www.linkedin.com/in/abhineetkaurr
+- Gmail: abhineetkaur760@gmail.com
+---
+
+⭐ Always open to learning, collaboration, and impactful projects. 
+
+
