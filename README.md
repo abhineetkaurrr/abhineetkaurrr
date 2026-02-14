@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Abhineet Kaur
 
-🎓 Computer Science student with a strong interest in **Machine Learning, NLP, and System Design**.  
+🎓 Computer Science student with a strong interest in **Machine Learning, Data Analytics, Data Science, NLP, and System Design**.  
 I enjoy building **end-to-end projects** — from model training to deployment — and exploring modern architectures like decentralized systems.
 
 ---
