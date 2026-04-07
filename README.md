@@ -13,23 +13,3 @@ I enjoy building **end-to-end projects** — from model training to deployment �
 
 ---
 
-### 🚀 Featured Projects
-- 📧 **Spam Mail Detection**  
-  ML-based spam classifier using Naive Bayes & TF-IDF  
-  🔗 Live Demo: https://spam-mail-detection-abhineet.streamlit.app/
-
-- 🌐 **Decentralized Content Delivery Network**  
-  dCDN architecture with TypeScript frontend & Rust backend  
-  🔗 Repo: https://github.com/abhineetkaurrr/Decentralized-Content-Delivery-Network
-
----
-
-### 📫 Connect with me
-- GitHub: https://github.com/abhineetkaurrr
-- LinkedIn: https://www.linkedin.com/in/abhineetkaurr
-- Gmail: abhineetkaur760@gmail.com
----
-
-⭐ Always open to learning, collaboration, and impactful projects. 
-
-
